@@ -46,32 +46,33 @@ const testimonials = [
   {
     name: "Harriet Maxwell",
     position: "CEO at Google",
-    image: "https://preview.colorlib.com/theme/personal/img/elements/user1.png.webp",
+    image: "/assets/img/Harriet Maxwell.webp",
     message:
       "Do you want to be even more successful? Learn to love learning and growth. The more effort you put into improving your skills, the bigger the payoff you."
   },
   {
     name: "Carolyn Craig",
     position: "CEO at Facebook",
-    image: "https://preview.colorlib.com/theme/personal/img/elements/user2.png.webp",
+    image: "/assets/img/Carolyn Craig.webp",
     message:
       "A purpose is the eternal condition for success. Every former smoker can tell you just how hard it is to stop smoking cigarettes. However."
   },
   {
     name: "Carolyn Craig",
     position: "CEO at Facebook",
-    image: "https://preview.colorlib.com/theme/personal/img/elements/user1.png.webp",
+    image: "/assets/img/Carolyn Craig.webp",
     message:
       "A purpose is the eternal condition for success. Every former smoker can tell you just how hard it is to stop smoking cigarettes. However."
   },
   {
     name: "Harriet Maxwell",
     position: "CEO at Google",
-    image: "https://preview.colorlib.com/theme/personal/img/elements/user2.png.webp",
+    image: "/assets/img/Harriet Maxwell.webp",
     message:
       "Do you want to be even more successful? Learn to love learning and growth. The more effort you put into improving your skills, the bigger the payoff you."
   }
 ];
+
 
 let currentIndex = 0;
 
